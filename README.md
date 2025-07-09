@@ -1,2 +1,15 @@
-# Smart-Tea-Garden-Robot-System
-An intelligent patrol robot system for tea plantations, combining real-time environmental sensing, disease detection with deep learning, and cloud-edge collaboration to support smart agriculture and improve crop management efficiency.
+# 茶园病害防治巡检机器人
+
+本项目旨在研发并推广**基于巡检机器人的茶园病害防治数智系统**。系统融合了机器人自主导航、多模态环境感知、深度学习图像识别、边缘计算与云端协同等前沿技术，致力于打造智能化、数据驱动的农业病虫害防治方案。
+
+## 🧠 项目亮点
+- **智能巡检机器人**：基于 ROS2 构建，支持路径规划与障碍规避，集成陀螺仪、RTK 模块与多自由度机械臂
+- **多模态数据采集**：采集环境气象、土壤、空气质量、茶叶图像等数据，实时上传至边缘端与云平台
+- **AI 病害识别模型**：采用 一种结合 YOLOR 与 Swin Transformer 的深度学习网络，实现茶叶病虫害高精度识别
+- **云边端协同架构**：边缘端实现实时推理，云端进行大数据分析与决策支持
+- **可扩展性强**：系统支持扩展至果园、花卉园等场景，提供精准农业解决方案
+
+## 📦 项目组成
+- 机器人主控模块代码
+- 上位机交互平台（边缘端交互界面、传感器数据处理）
+- 深度学习病害检测模型
