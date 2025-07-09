@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>temperature.png</file>
+    <file>tea_detect.jpg</file>
+  </qresource>
+</RCC>

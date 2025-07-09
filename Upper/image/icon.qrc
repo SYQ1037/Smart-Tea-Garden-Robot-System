@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>advice.png</file>
+    <file>state.png</file>
+    <file>soilread.png</file>
+    <file>data.png</file>
+    <file>teaLeaf.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>canshu.png</file>
+  </qresource>
+</RCC>

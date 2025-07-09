@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>biaopan.png</file>
+  </qresource>
+</RCC>

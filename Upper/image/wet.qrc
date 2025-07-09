@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>wet.png</file>
+  </qresource>
+</RCC>
