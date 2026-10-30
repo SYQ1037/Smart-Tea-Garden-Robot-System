@@ -10,7 +10,7 @@ class DeepSeekThread(QThread):
     def __init__(self, message, parent=None):
         super().__init__(parent)
         self.message = message
-        self.api_key = "sk-2e90b9ce03af47ecaf039c152609f645"
+        self.api_key = ""
 
     def run(self):
         try:
